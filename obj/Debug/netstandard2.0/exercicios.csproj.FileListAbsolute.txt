@@ -1,0 +1,15 @@
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\bin\Debug\netstandard2.0\exercicios.deps.json
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\bin\Debug\netstandard2.0\exercicios.dll
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\bin\Debug\netstandard2.0\exercicios.pdb
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.csproj.AssemblyReference.cache
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\CalcularAreaTriangulo.xaml.g.cs
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.AssemblyInfo.cs
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.dll
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\refint\exercicios.dll
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.pdb
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\ref\exercicios.dll
