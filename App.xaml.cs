@@ -10,7 +10,7 @@ namespace exercicios
         {
             InitializeComponent();
 
-            MainPage = new CalcularAreaTriangulo();
+            MainPage = new CalcularFatorialDeUmNumero();
         }
 
         protected override void OnStart()

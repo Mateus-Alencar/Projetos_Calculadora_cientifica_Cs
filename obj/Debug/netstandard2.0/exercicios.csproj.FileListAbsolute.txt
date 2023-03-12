@@ -13,3 +13,4 @@ C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug
 C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\refint\exercicios.dll
 C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\exercicios.pdb
 C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\ref\exercicios.dll
+C:\Users\mateus\Documents\Projetos C#\exercicios\exercicios\exercicios\obj\Debug\netstandard2.0\CalcularFatorialDeUmNumero.xaml.g.cs
